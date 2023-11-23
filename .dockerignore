@@ -1,9 +1,7 @@
 
-
+tests/
 node_modules/
-
 Dockerfile
-
 .git
 .dockerignore
 .gitignore
